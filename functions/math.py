@@ -20,6 +20,6 @@ def remainder(c,d):
     answ = c%d
     return answ
 
-#  def remainder(a,b):
-#     answer= a%b
-#     return answer
+ def remainder(a,b):
+    answer= a%b
+    return answer
